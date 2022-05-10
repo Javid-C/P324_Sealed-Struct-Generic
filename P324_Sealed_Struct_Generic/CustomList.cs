@@ -4,7 +4,8 @@ using System.Text;
 
 namespace P324_Sealed_Struct_Generic
 {
-    class CustomList<T> where T: class,IUser
+    class CustomList<T, U> where T: class,IUser
+                            where U: struct,IUser
     {
 
         private T[] arr;
