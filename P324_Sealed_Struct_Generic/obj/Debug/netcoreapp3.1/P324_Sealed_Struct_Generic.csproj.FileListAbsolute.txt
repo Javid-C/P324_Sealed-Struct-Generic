@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\bin\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.exe
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\bin\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.deps.json
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\bin\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\bin\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\bin\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.dll
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\bin\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.pdb
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\obj\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\obj\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\obj\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\obj\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\obj\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\obj\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.dll
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\obj\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.pdb
+C:\Users\Lenovo\source\repos\P324_Sealed_Struct_Generic\P324_Sealed_Struct_Generic\obj\Debug\netcoreapp3.1\P324_Sealed_Struct_Generic.genruntimeconfig.cache
